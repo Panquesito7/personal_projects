@@ -1,3 +1,6 @@
+> **Note:**\
+> This is no longer used, updated, or maintained.
+
 I've been working on some personal projects in C++ and VBA.\
 Most of them are to learn and to have fun. Here are some of them:
 
